@@ -1,0 +1,1 @@
+Some notebooks from the book [Statistical Thinking for the 21st Century](https://statsthinking21.github.io/statsthinking21-core-site/)
